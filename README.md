@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, I'm Gabor 👋
 
-<!--
-**lantgabor/lantgabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer with 5+ years of experience in **DevOps**, **MLOps**, and **Cloud Technologies**.
+Linux is my daily driver — both for work and personal use. In my free time I enjoy building fullstack applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```fish
+user@host
+---------
+OS:       Arch Linux x86_64 / MacOS AArch64
+WM:       Hyprland (Wayland)
+Shell:    fish 🐟
+Editor:   Zed
+Terminal: foot (Linux) / Ghostty (macOS)
+Uptime:   always on ⚡
+```
+
+---
+
+### 🔧 What I work with
+
+- **Cloud & Infrastructure** — AWS, GCP, Terraform, Kubernetes, Docker
+- **MLOps** — model pipelines, experiment tracking, deployment workflows
+- **DevOps** — CI/CD, observability, platform engineering
+- **Fullstack** — building apps in my spare time
