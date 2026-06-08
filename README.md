@@ -5,7 +5,7 @@ Linux is my daily driver — both for work and personal use. In my free time I e
 
 ---
 
-```fish
+```sh
 user@host
 ---------
 OS:       Arch Linux x86_64 / MacOS AArch64
