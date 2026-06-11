@@ -13,7 +13,6 @@ WM:       Hyprland (Wayland)
 Shell:    fish 🐟
 Editor:   Zed
 Terminal: foot (Linux) / Ghostty (macOS)
-Uptime:   always on ⚡
 ```
 
 ---
